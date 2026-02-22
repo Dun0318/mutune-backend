@@ -1,7 +1,8 @@
 # MuTune Backend
-This repository contains the backend implementation.  
-For the frontend project, see:  
- https://github.com/your-username/mutune-frontend
+
+Frontend Repository:
+https://github.com/Dun0318/mutune-frontend
+
 MuTune은 음악인을 위한 웹 기반 음악 편집 SaaS 서비스입니다.  
 
 악보(PDF)와 MR(반주 파일)을 업로드하면  
