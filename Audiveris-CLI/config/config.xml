@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- Mutune CLI configuration -->
+    <constant name="picture.resolution" value="600"/>
+    <constant name="picture.binarization.threshold" value="0.45"/>
+    <constant name="sheetScale.minInterline" value="8"/>
+    <constant name="sheetScale.maxInterline" value="22"/>
+    <constant name="page.filterClef" value="false"/>
+    <constant name="page.filterKey" value="false"/>
+    <constant name="page.rebuildClefs" value="true"/>
+    <constant name="page.rebuildKeys" value="true"/>
+    <constant name="page.rebuildTimeSignatures" value="true"/>
+    <constant name="page.analyzeText" value="false"/>
+    <constant name="recognition.minNoteHeadRatio" value="0.6"/>
+    <constant name="staff.maxDistance" value="1.8"/>
+    <constant name="staff.maxThickness" value="0.5"/>
+    <constant name="ocr.enabled" value="false"/>
+    <constant name="time.signatureDetection" value="true"/>
+    <constant name="time.rebuildSignature" value="true"/>
+    <constant name="key.detectionEnabled" value="true"/>
+    <constant name="key.maxSharps" value="7"/>
+    <constant name="key.maxFlats" value="7"/>
+</configuration>
